@@ -1,1 +1,1 @@
-# It is a admin panel wireframes
+# Admin panel wireframes
